@@ -14,7 +14,4 @@ git push -u custom-module master
 User : polguy
 Password : dV***Y***
 
-# Récupérer sur le serveur prod le nouveau code envoyé depuis le local :
-Pour le repo dans G:\wamp\www\chauffeur-madagascar\modules\custom, correspondant au repo sur Github madagascar-module.git
-Se positionner où est le dossier .git, dans subsites/madagascar/modules/custom
-git clone https://github.com/polguy/madagascar-module.git
+
